@@ -14,7 +14,6 @@ Features
 - Update Project Details
 - Delete Project Records
 - Project Statistics Dashboard
-- Menu-Driven Interface
 
 
 Technologies Used
