@@ -33,6 +33,64 @@ Future Enhancements
 - Report Generation
 - User Authentication
 
+WORK FLOW OF PORTFOLIO PROJECT MANAGER:-
 
-Author
+START
+  |
+  v
+Display Main Menu
+  |
+  v
+User Selects an Option
+  |
+  +----> Add Project
+  |         |
+  |         v
+  |    Enter Project Details
+  |         |
+  |         v
+  |    Save in Array
+  |
+  +----> View Projects
+  |         |
+  |         v
+  |    Display All Projects
+  |
+  +----> Search Project
+  |         |
+  |         v
+  |    Enter Project ID
+  |         |
+  |         v
+  |    Project Found / Not Found
+  |
+  +----> Update Project
+  |         |
+  |         v
+  |    Search by Project ID
+  |         |
+  |         v
+  |    Update Details
+  |
+  +----> Delete Project
+  |         |
+  |         v
+  |    Search by Project ID
+  |         |
+  |         v
+  |    Delete Record
+  |
+  +----> Dashboard
+  |         |
+  |         v
+  |    Show Statistics
+  |
+  v
+Exit
+  |
+  v
+END
+
+
+Author:
 Vaishnavi Ghorband
